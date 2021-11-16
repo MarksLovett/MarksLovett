@@ -1,0 +1,5 @@
+- 👋 Hi, Mark Lovett  
+- 👀 I'm intrested in applied mathematics; in particular, dynamical systems, evolutionary game theory, and discrete dynamical systems.  
+- 🌱 I’m currently learning Machine learning in Julia, Modeling in Julia, and Difrence equations techniques. 
+- 💞️ I’m looking to collaborate ecology and economics mathematical models, mathematical oncology, and any projects related to ttrpgs,
+- 📫 Reach me through my email @ mark.s.lovett981@gmail.com
